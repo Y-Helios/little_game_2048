@@ -1,7 +1,7 @@
 # little_game_2048
 
 ### introduction
-- This is a classic game named 2048, and it was my final course program for my freshman year.
+- This is a classic game named 2048. And it was my final course program for my freshman year, so the code looks ugly.
 - This work was complished by another classmate and me, and was compiled by vs2019. 
 - And I upload it now as an archive.
 
