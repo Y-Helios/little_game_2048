@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\dell\Desktop\2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+C:\Users\dell\Desktop\c语言作业\2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\dell\Desktop\c语言作业\2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+D:\program\thegame\修改版2048\修改版2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\program\thegame\修改版2048\修改版2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+C:\Users\dell\Desktop\修改版2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\dell\Desktop\修改版2048\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+D:\program\thegame\2048第n版\2048第n版\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\program\thegame\2048第n版\2048第n版\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
+D:\program\thegame\2048第n+2版\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\program\thegame\2048第n+2版\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb

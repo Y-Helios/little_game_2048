@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(630,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(635,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(640,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(645,44): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(650,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(655,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(660,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(665,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(670,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(675,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(680,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(685,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(690,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\thegame\2048第n+2版\ConsoleApplication1\ConsoleApplication1.cpp(695,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> D:\program\thegame\2048第n+2版\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

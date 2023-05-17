@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\my2048\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\dell\Desktop\my2048\ConsoleApplication1\Debug\ConsoleApplication1.pdb
+C:\Users\dell\Desktop\2048\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\dell\Desktop\2048\ConsoleApplication1\Debug\ConsoleApplication1.pdb
