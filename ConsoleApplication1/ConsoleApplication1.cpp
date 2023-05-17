@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<time.h>
 #include<random>
-#include<graphics.h>
+#include<graphics.h>  // 好像是一个什么easy库，c++的
 #include<Windows.h>
 #include<stdlib.h>
 
